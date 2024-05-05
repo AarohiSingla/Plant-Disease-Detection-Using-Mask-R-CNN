@@ -29,7 +29,7 @@ opt-einsum==3.3.0
 pandas==1.1.5
 parso==0.7.1
 pickleshare==0.7.5
-Pillow==8.4.0
+Pillow==10.0.1
 prompt-toolkit==3.0.24
 protobuf==3.19.1
 Pygments==2.10.0
